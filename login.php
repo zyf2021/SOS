@@ -4,7 +4,7 @@
 ?>
 <body class="container-fluid" >
 <div class="container-sm" style="margin-top: 12%; width: 50%">
-<form action="/login" method="post">
+<form action="login_action.php" method="post">
         <div class="form-floating mb-3">
             <input type="tel" class="form-control" id="phoneInput" name="username">
             <label for="floatingInput">username</label>
