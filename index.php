@@ -24,7 +24,7 @@
           <div class="card-body">
             <h5 class="card-title">Оставить заявку на стажировку</h5>
             <p class="card-text">Заполните анкету для стажировки, отметьте навыки которыми владеете и выберите подходящую компанию для практики</p>
-            <a href="anketa.php" class="btn btn-primary">Заполнить анкету</a>
+            <a href="anketa_student.php" class="btn btn-primary">Заполнить анкету</a>
           </div>
         </div>
       </div>
