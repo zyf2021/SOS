@@ -7,6 +7,7 @@
 <body class="container-fluid">
 <form name = "anketa_student_obr" method="post" action="anketa_student_obr.php" onsubmit="return validate_form()">   
 <div class="container-sm" style="margin-top: 12%; width: 50%">
+	<h3>Анкета студента</h3>
 	<div class="input-group mb-3">
 		  <span class="input-group-text" id="basic-addon1">@</span>
 		  <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">

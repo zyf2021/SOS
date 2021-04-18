@@ -76,7 +76,7 @@
     </div>
   </div>
 </div>
-<a class="btn btn-primary" href="#" role="button" style="margin-left:40%; margin-top:10px;">Больше стажировок</a>
+<a class="btn btn-primary" href="#" role="button" style="margin-left:40%; margin-top:10px;">Больше ВУЗов</a>
 </div>
 </div>
 
